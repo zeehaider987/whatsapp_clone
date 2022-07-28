@@ -3,7 +3,6 @@ import 'package:flutter/material.dart';
 import 'LoginScreen.dart';
 
 void main() {
-  // hellooo
   runApp(const MyApp());
 }
 
