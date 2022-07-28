@@ -1,5 +1,4 @@
 import 'dart:io';
-
 import 'package:flutter/material.dart';
 class CameraViewPage extends StatelessWidget {
   const CameraViewPage({Key? key, this.path}) : super(key: key);
@@ -16,7 +15,7 @@ class CameraViewPage extends StatelessWidget {
               icon: Icon(
                 Icons.crop_rotate,
                 size: 27,
-              ),
+              ), 
               onPressed: () {}),
           IconButton(
               icon: Icon(

@@ -8,7 +8,7 @@ class VideoViewPage extends StatefulWidget {
   @override
   _VideoViewPageState createState() => _VideoViewPageState();
 }
-
+// not complete
 class _VideoViewPageState extends State<VideoViewPage> {
   VideoPlayerController? _controller;
 
